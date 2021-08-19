@@ -1,2 +1,1 @@
-# multi-module-buildsrc-template
-Template for multi module projects with customized Gradle plugin
+# Multi module project template using Gradle plugin
